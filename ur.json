@@ -1,0 +1,17 @@
+{
+  "title": "بارکوڈ انسپکٹر",
+  "start_camera": "کیمرہ شروع کریں",
+  "stop_camera": "کیمرہ بند کریں",
+  "capture_snapshot": "تصویر کھینچیں",
+  "select_folder": "فولڈر منتخب کریں",
+  "serial_label": "سیریل پورٹ:",
+  "camera_label": "کیمرہ انڈیکس:",
+  "current_barcode": "موجودہ بارکوڈ: ",
+  "scanned_count": "سکین شدہ تعداد: ",
+  "order_number": "آرڈر نمبر:",
+  "status_connected": "منسلک ",
+  "status_not_connected": "سیریل پورٹ منسلک نہیں ہے",
+  "status_disconnected": "منقطع",
+  "language": "زبان:",
+  "beep_enabled": "بیپ فعال کریں"
+}

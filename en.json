@@ -1,0 +1,17 @@
+{
+  "title": "Barcode Inspector",
+  "start_camera": "Start Camera",
+  "stop_camera": "Stop Camera",
+  "capture_snapshot": "Capture Snapshot",
+  "select_folder": "Select Folder",
+  "serial_label": "Serial Port:",
+  "camera_label": "Camera Index:",
+  "current_barcode": "Current Barcode: ",
+  "scanned_count": "Scanned Count: ",
+  "order_number": "Order Number:",
+  "status_connected": "Connected to ",
+  "status_not_connected": "Serial port not connected",
+  "status_disconnected": "Disconnected",
+  "language": "Language:",
+  "beep_enabled": "Enable Beep"
+}

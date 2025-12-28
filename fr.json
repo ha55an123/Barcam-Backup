@@ -1,0 +1,18 @@
+{
+  "title": "Inspecteur de Code-barres",
+  "start_camera": "Démarrer la caméra",
+  "stop_camera": "Arrêter la caméra",
+  "capture_snapshot": "Capturer l'instantané",
+  "select_folder": "Sélectionner le dossier",
+  "serial_label": "Port série:",
+  "camera_label": "Indice de la caméra:",
+  "current_barcode": "Code-barres actuel: ",
+  "scanned_count": "Nombre scanné: ",
+  "order_number": "Numéro de commande:",
+  "status_connected": "Connecté à ",
+  "status_not_connected": "Port série non connecté",
+  "status_disconnected": "Déconnecté",
+  "language": "Langue:",
+  "beep_enabled": "Activer le bip"
+}
+

@@ -1,0 +1,17 @@
+{
+  "title": "条码检查器",
+  "start_camera": "启动摄像头",
+  "stop_camera": "停止摄像头",
+  "capture_snapshot": "捕捉快照",
+  "select_folder": "选择文件夹",
+  "serial_label": "串口：",
+  "camera_label": "摄像头索引：",
+  "current_barcode": "当前条码：",
+  "scanned_count": "扫描计数：",
+  "order_number": "订单号：",
+  "status_connected": "已连接 ",
+  "status_not_connected": "串口未连接",
+  "status_disconnected": "已断开连接",
+  "language": "语言：",
+  "beep_enabled": "启用蜂鸣"
+}
